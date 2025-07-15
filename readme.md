@@ -41,29 +41,29 @@ A seguir estão os endpoints disponíveis para teste.
 -   **Descrição:** Retorna uma lista com todos os produtos disponíveis no catálogo.
 -   **Resposta de Sucesso (200 OK):**
     ```json
-  "products": [
-    {
-      "id": 1,
-      "name": "Conjunto1",
-      "unitPrice": 79.90
-    },
-    {
-      "id": 2,
-      "name": "Conjunto2",
-      "unitPrice": 89.90
-    },
-    {
-      "id": 3,
-      "name": "Conjunto3",
-      "unitPrice": 119.90
-    },
-    {
-      "id": 4,
-      "name": "Conjunto4",
-      "unitPrice": 129.90
-    
-    }
-  ]
+        "products": [
+          {
+            "id": 1,
+            "name": "Conjunto1",
+            "unitPrice": 79.90
+          },
+          {
+            "id": 2,
+            "name": "Conjunto2",
+            "unitPrice": 89.90
+          },
+          {
+            "id": 3,
+            "name": "Conjunto3",
+            "unitPrice": 119.90
+          },
+          {
+            "id": 4,
+            "name": "Conjunto4",
+            "unitPrice": 129.90
+          
+          }
+        ]
     ```
 
 #### 2. Criar Novo Pedido
