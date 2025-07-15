@@ -76,7 +76,7 @@ A seguir estão os endpoints disponíveis para teste.
     {
       "items": [
         { "id": 1, "quantity": 1, "unitPrice": 79.90 },
-        { "productId": 4, "quantity": 2, "unitPrice": 129.90 }
+        { "productId": 4, "quantity": 1, "unitPrice": 129.90 }
       ],
       "total": 209.80
     }
@@ -88,7 +88,7 @@ A seguir estão os endpoints disponíveis para teste.
         "order": {
             "items": [
                  { "id": 1, "quantity": 1, "unitPrice": 79.90 },
-                { "productId": 4, "quantity": 2, "unitPrice": 129.90 }
+                { "productId": 4, "quantity": 1, "unitPrice": 129.90 }
             ],
             "total": 209.80
         }
